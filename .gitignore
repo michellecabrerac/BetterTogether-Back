@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+target
 
 # Log file
 *.log
@@ -19,6 +20,9 @@
 *.tar.gz
 *.rar
 
+mvnw*
+*.md
+*.mvn/*
 hs_err_pid*
 *.iml
 *.ipr
